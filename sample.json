@@ -1,9 +1,0 @@
-{
-  "filename": "breast-cancer-wisconsin.csv",
-  "model_name": "decision_tree",
-  "param": {
-    "criterion": "gini"
-  },
-  "target_variable": "Class",
-  "split": 0.2
-}

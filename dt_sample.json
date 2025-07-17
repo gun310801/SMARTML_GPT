@@ -1,9 +1,0 @@
-{
-    "model_name" : "decision_tree",
-    "filename" : "breast-cancer-wisconsin.csv",
-    "decision_tree_parameters": {
-        "criterion": "entropy"
-    },
-    "target_variable": "Class",
-    "split" : 0.2
-}

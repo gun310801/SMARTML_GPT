@@ -1,9 +1,0 @@
-{
-    "filename" : "breast-cancer-wisconsin.csv",
-    "lr_parameters": {
-        "penalty": "l2",
-	"solver": "liblinear"
-    },
-    "target_variable": "Class",
-    "split" : 0.2
-}

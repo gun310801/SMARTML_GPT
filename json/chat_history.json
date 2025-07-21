@@ -1,1 +1,0 @@
-[["what is gini index?", " Gini index is a function to measure the quality of a split. It is used in the DecisionTreeClassifier to measure the impurity of a node."], ["can you build a model for breast-cancer-wisconsin dataset?", " Yes, a model can be built for the breast-cancer-wisconsin dataset."], ["what is the accuracy?", "The resulting accuracy is 0.9714285714285714"]]

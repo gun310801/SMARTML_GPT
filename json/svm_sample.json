@@ -1,8 +1,0 @@
-{
-    "filename" : "breast-cancer-wisconsin.csv",
-    "svm_parameters": {
-        "kernel": "linear"
-    },
-    "target_variable": "Class",
-    "split" : 0.2
-}

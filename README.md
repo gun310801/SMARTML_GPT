@@ -137,23 +137,6 @@ SMARTML: Provides data insights and recommendations
 - `OPENAI_API_KEY`: Your OpenAI API key (required)
 - `OPENAI_MODEL`: OpenAI model to use (default: gpt-3.5-turbo)
 
-The application supports three main ML algorithms:
-
-1. **SVM (Support Vector Machine)**
-   - Kernel types: linear, rbf, poly, sigmoid
-   - C parameter for regularization
-   - Gamma for kernel coefficient
-
-2. **Logistic Regression**
-   - C parameter for regularization
-   - Solver options: lbfgs, liblinear, newton-cg
-   - Max iterations
-
-3. **Decision Tree**
-   - Max depth
-   - Min samples split
-   - Criterion: gini, entropy
-
 ## 📊 Features in Detail
 
 ### AI-Powered Responses
